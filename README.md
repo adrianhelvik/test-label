@@ -1,4 +1,16 @@
-# test-label
+# Installing
+
+```bash
+yarn add test-label
+```
+
+or
+
+```bash
+npm install --save test-label
+```
+
+# About
 
 This is a little function that can be used to
 convert a labeled statement into a function.
