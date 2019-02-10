@@ -1,3 +1,5 @@
+'use strict'
+
 const escodegen = require('escodegen')
 const acorn = require('acorn')
 

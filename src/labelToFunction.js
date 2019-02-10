@@ -1,3 +1,5 @@
+'use strict'
+
 const findLabeledStatement = require('./findLabeledStatement')
 
 function labelToFunction(fn, label, options = {}) {
